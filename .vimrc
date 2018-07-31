@@ -52,6 +52,9 @@ set showmatch
 " How many tenths of a second to blink when matching brackets
 set mat=2
 
+" I don't like wrapping
+set nowrap
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Colors and Fonts
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
